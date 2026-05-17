@@ -1,0 +1,2 @@
+# El identificador de plantas solo usa la biblioteca estandar de Python.
+# Este archivo existe porque Render espera encontrarlo, pero esta intencionalmente vacio.
